@@ -14,11 +14,3 @@ int main() {
 
     return 0;
 }
-
-// Ideas:
-//Guess a number 1 – 100
-//1.	Option 1, one person guesses and can see how far off they are
-//2.	Option 2, two people guess and see who was closer
-//3.	Answer is randomized
-//        a.	Two inputs
-//        b.	Calculates which one is closer

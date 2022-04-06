@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "foodFunctions.h"
-// test
+// test 
 
 void display_dishes(){
     printf("\nBreakfast: Yogurt, Bagels, Eggs, Stuffed Hasbrowns, Oatmeal\n"
